@@ -1,0 +1,24 @@
+{
+  "@@last_modified": "2020-12-03T11:48:51.849866",
+  "heyWorld": "Hey World",
+  "@heyWorld": {
+    "description": "Simpel word for greeting ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "areYou": "Are you ?",
+  "@areYou": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "user": "User ",
+  "@user": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "foodTruckOwner": "Food Truck Owner",
+  "@foodTruckOwner": {
+    "type": "text",
+    "placeholders": {}
+  }
+}

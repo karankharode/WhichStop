@@ -1,0 +1,104 @@
+{
+  "@@last_modified": "2020-12-04T19:14:39.852231",
+  "heyWorld": "Hey World",
+  "@heyWorld": {
+    "description": "Simpel word for greeting ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "areYou": "Are you ?",
+  "@areYou": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "user": "User ",
+  "@user": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "foodTruckOwner": "Food Truck Owner",
+  "@foodTruckOwner": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "login": "Login",
+  "@login": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "contiueAsAGuest": "Contiue As A Guest",
+  "@contiueAsAGuest": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "welcome": "Welcome to Which Stop? !!",
+  "@welcome": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "register": "Register",
+  "@register": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "email": "Email Address",
+  "@email": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "password": "Password",
+  "@password": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "forgotpass": "Forgot Passsword ?",
+  "@forgotpass": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "registration": "Registration",
+  "@registration": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "createAccnt": "Create an account with Which Stop ? ",
+  "@createAccnt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "firstName": "First Name",
+  "@firstName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lastName": "Last Name",
+  "@lastName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "emailAddress": "E-Mail Adress",
+  "@emailAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmPass": "Confirm Password",
+  "@confirmPass": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dob": "Date of Birth",
+  "@dob": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "country": "Country",
+  "@country": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "continueButton": "Continue",
+  "@continueButton": {
+    "type": "text",
+    "placeholders": {}
+  }
+}

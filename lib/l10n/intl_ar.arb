@@ -1,0 +1,104 @@
+{
+  "@@last_modified": "2020-12-03T11:48:51.849866",
+  "heyWorld": "Hey Arab World",
+  "@heyWorld": {
+    "description": "Simpel word for greeting ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "areYou": "أنت ?",
+  "@areYou": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "user": "المستعمل ",
+  "@user": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "foodTruckOwner": "مالك شاحنة الغذاء",
+  "@foodTruckOwner": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "login": "تسجيل الدخول",
+  "@login": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "contiueAsAGuest": "تابع كضيف",
+  "@contiueAsAGuest": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "welcome": "مرحبا بكم في أي محطة؟ !!",
+  "@welcome": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "register": "تسجيل",
+  "@register": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "email": "عنوان بريد الكتروني",
+  "@email": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "password": "كلمه السر",
+  "@password": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "forgotpass": "نسيت كلمة المرور؟",
+  "@forgotpass": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "registration": "التسجيل",
+  "@registration": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "createAccnt": "إنشاء حساب مع أي توقف؟ ",
+  "@createAccnt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "firstName": "الاسم الاول",
+  "@firstName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lastName": "الكنية",
+  "@lastName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "emailAddress": "عنوان بريد الكتروني",
+  "@emailAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmPass": "تأكيد كلمة المرور",
+  "@confirmPass": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dob": "تاريخ الولادة",
+  "@dob": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "country": "بلد",
+  "@country": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "continueButton": "استمر",
+  "@continueButton": {
+    "type": "text",
+    "placeholders": {}
+  }
+}
